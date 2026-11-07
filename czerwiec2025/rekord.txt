@@ -1,0 +1,10 @@
+
+
+Zamczysko
+Na odludziu stoi opuszczone zamczysko, w kt�rym znajduje si� skarb strze�ony przez z�owrogie demony i duchy
+Punkty: 200
+Cena: 50 z� 
+zamczysko.jpg
+
+INSERT INTO gry(nazwa, opis, punkty, cena, zdjecie)
+VALUES("Zamczysko", "Na odludziu stoi opuszczone zamczysko, w kt�rym znajduje si� skarb strze�ony przez z�owrogie demony i duchy", 200, 50, "zamczysko.jpg")
